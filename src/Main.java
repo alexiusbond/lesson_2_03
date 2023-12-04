@@ -9,7 +9,7 @@ public class Main {
         System.out.println("Добавить молоко или сахар по-вкусу");
         duration();
     }
-
+    // Hi Sensei!
 
     public static void main(String[] args) { // DRY
         System.out.println("ЗАВТРАК");
